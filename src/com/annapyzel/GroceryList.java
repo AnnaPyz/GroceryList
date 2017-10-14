@@ -2,6 +2,8 @@ package com.annapyzel;
 
 import java.util.ArrayList;
 
+//second comment
+
 public class GroceryList {
     private ArrayList<String> groceryList = new ArrayList<>();
 

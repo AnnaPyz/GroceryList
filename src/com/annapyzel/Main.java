@@ -3,7 +3,7 @@ package com.annapyzel;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//first java code on github
+//first java code on github, xxx
 
 public class Main {
     private static Scanner scanner = new Scanner(System.in);
